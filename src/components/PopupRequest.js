@@ -34,7 +34,7 @@ const PopupRequest = () => {
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
       <div className="bg-white p-8 rounded-lg shadow-xl text-center">
         <h2 className="mb-5 text-center text-4xl font-bold">Welcome Back!</h2>
-        <p className="mb-7 text-center text-lg text-token-text-secondary">Create an account or log in to unlock full features & have get the most!</p>
+        <p className="mb-7 text-center text-lg text-token-text-secondary">Create an account or log in to unlock full features & get the most!</p>
         
         <div className="flex justify-center space-x-4">
           <button 
